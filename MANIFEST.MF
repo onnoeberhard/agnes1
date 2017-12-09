@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: AProgramme1.AVersuch1
+
+Name: AProgramme1/
+Sealed: false
+
